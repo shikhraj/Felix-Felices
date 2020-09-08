@@ -1,0 +1,6 @@
+Ashwinder egg[3]
+Squill bulb[3]
+Murtlap tentacle[3]
+Tincture of thyme[3]
+Occamy eggshell[3]
+Powdered common rue[3]
